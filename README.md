@@ -1,11 +1,10 @@
 ![Header](https://github.com/adrbns/adrbns.github.io/blob/main/header1.png)
 
-Hi, I'm Adrián and I'm a junior frontend developer living in Barcelona. I'll be posting my accumulated projects here.  
-I speak <img src="https://flagsapi.com/ES/flat/32.png"><img src="https://flagsapi.com/FR/flat/32.png"><img src="https://flagsapi.com/GB/flat/32.png"> and a bit of català.
+### Hi, I'm Adrián and I'm a junior frontend developer living in Barcelona. I'll be posting my accumulated projects here.  
+I speak <img src="https://flagsapi.com/ES/flat/32.png"><img src="https://flagsapi.com/FR/flat/32.png"><img src="https://flagsapi.com/GB/flat/32.png"> and a bit of català.  
+***
 
----
-## Technologies that i play with:
-
+***
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -26,7 +25,12 @@ I speak <img src="https://flagsapi.com/ES/flat/32.png"><img src="https://flagsap
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-😶‍🌫️
+
 ---
-![me](https://github.com/adrbns/adrbns.github.io/blob/main/meme.gif)
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f62c/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f62c/512.gif" alt="😬" width="62" height="62">
+</picture>
+
+
 
