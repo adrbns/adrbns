@@ -1,4 +1,5 @@
 <img src="https://github.com/adrbns/adrbns.github.io/blob/main/header.webp" alt="Header" style="width:100%; height: auto; aspect-ratio: 3 / 2;">
+---
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
