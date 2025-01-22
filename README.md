@@ -1,6 +1,8 @@
 ![Header](https://github.com/adrbns/adrbns.github.io/blob/main/header1.png)
 
-Hi, i'm Adrián
+Hi, I'm Adrián and I'm a junior web developer living in Barcelona. I'll be posting my accumulated projects here.  
+I speak <img src="https://flagsapi.com/ES/flat/32.png"><img src="https://flagsapi.com/FR/flat/32.png"><img src="https://flagsapi.com/GB/flat/32.png"> and a bit of català.
+
 ---
 ## Technologies that i play with:
 
@@ -24,4 +26,5 @@ Hi, i'm Adrián
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 😶‍🌫️
 ---
+![me](https://github.com/adrbns/adrbns.github.io/blob/main/meme.gif)
 
